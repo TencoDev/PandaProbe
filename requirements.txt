@@ -1,0 +1,7 @@
+requests==2.31.0
+scapy==2.5.0
+dnspython==2.4.2
+python-whois==0.7.3
+ipaddress==1.0.23
+pytest==7.4.3
+pyfiglet==1.0.2
