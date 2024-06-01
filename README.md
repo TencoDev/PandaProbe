@@ -1,7 +1,7 @@
 PandaProbe
 ==========
 
-#### Video Demo: [PandaProbe Demo](https://youtu.be/OMDjBjdE8yY)
+
 
 #### Description:
 
