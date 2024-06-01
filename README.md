@@ -5,7 +5,7 @@ PandaProbe
 
 #### Description:
 
-##Note: This project was created for educational purposes and does not serve any practical use
+Note: This project was created for educational purposes and does not serve any practical use
 
 PandaProbe is a simple network reconnaissance tool that provides essential information about a target domain or IP address.
 This project was built was the final project of Harvard's CS50Python programme
